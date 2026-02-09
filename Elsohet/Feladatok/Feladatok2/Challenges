@@ -1,0 +1,7 @@
+Public class Account#1234{
+Public static void Main{
+int money: 500;
+char currency: "$";
+System.out.print("Your current balance: " + money + currency);
+}
+}
