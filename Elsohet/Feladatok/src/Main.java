@@ -6,10 +6,10 @@ System.out.println("WZWLAV");
 System.out.println("The elevator for success does not work, use the stairs");
     //Exercise 3
     //Class name: Electronics
-        //Object: Mouse
-        //Color: Dark_grey
-        //Weight: 10 dkg
-        //Is_on: TRUE
-        //Methods: Scroll, light on red, turnON, CursorHOVER
+        //String Object: "Mouse"
+        //String Color: "Dark_grey"
+        //String Weight: "10_dkg"
+        //Boolean Is_on: TRUE
+        //String Methods[4]: {"Scroll, light on red, turnON, CursorHOVER"}
 }
 }
