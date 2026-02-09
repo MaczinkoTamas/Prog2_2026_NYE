@@ -10,6 +10,6 @@ System.out.println("The elevator for success does not work, use the stairs");
         //String Color: "Dark_grey";
         //String Weight: "10_dkg";
         //Boolean Is_on: TRUE;
-        //String Methods[4]: {"Scroll, light on red, turnON, CursorHOVER"};}
+        //String[] Methods = {"Scroll", "light on red", "turnON", "CursorHOVER"};}
 }
 }
